@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "언리얼/엔진/렌더링/FSceneViewFamily.md",
+                "file": "언리얼/엔진/렌더링/FSceneView.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FSceneViewFamily"
+              "title": "FSceneView"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "e667f120acb401cf",
   "lastOpenFiles": [
-    "언리얼/엔진/렌더링/FSceneView.md",
     "언리얼/엔진/렌더링/FSceneViewFamily.md",
+    "언리얼/엔진/렌더링/FSceneView.md",
     "언리얼/엔진/렌더링",
     "컴퓨터 그래픽스/쉐이더.md",
     "컴퓨터 그래픽스/GPU API.md",
