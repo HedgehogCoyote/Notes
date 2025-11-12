@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/깃 정보 초기화.md",
+                "file": "언리얼/엔진/GameViewportClient.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "깃 정보 초기화"
+              "title": "GameViewportClient"
             }
           }
         ]
@@ -170,14 +170,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "025d9abc6d87579f",
+  "active": "e667f120acb401cf",
   "lastOpenFiles": [
+    "Misc/깃 정보 초기화.md",
+    "언리얼/엔진/GameViewportClient.md",
+    "언리얼/엔진",
     "언리얼/기타",
     "언리얼/게임 시스템",
     "Misc/옵시디언 깃 연동.md",
     "Untitled.base",
     "Untitled.canvas",
-    "Misc/깃 정보 초기화.md",
     "언리얼/기타/언리얼 빌드 최적화.md",
     "Misc",
     "언리얼",
