@@ -1,0 +1,1 @@
+Input과 Output을 다루는 엔진 객체

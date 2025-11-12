@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "언리얼/엔진/렌더링/UGameViewportClient.md",
+                "file": "언리얼/엔진/렌더링/Slate/SWindow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UGameViewportClient"
+              "title": "SWindow"
             }
           }
         ]
@@ -170,13 +170,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e667f120acb401cf",
+  "active": "025d9abc6d87579f",
   "lastOpenFiles": [
-    "언리얼/엔진/렌더링/SViewport.md",
+    "언리얼/엔진/렌더링/Slate",
     "언리얼/엔진/렌더링/UGameViewportClient.md",
-    "언리얼/엔진/렌더링/FSlateApplication.md",
+    "언리얼/엔진/렌더링/SViewport.md",
+    "언리얼/엔진/렌더링/Slate/FSlateApplication.md",
     "언리얼/엔진/렌더링/FSceneViewFamily.md",
-    "언리얼/엔진/렌더링/SWindow.md",
+    "언리얼/엔진/렌더링/Slate/SWindow.md",
     "언리얼/엔진/렌더링/FSceneView.md",
     "언리얼/엔진/렌더링",
     "컴퓨터 그래픽스/쉐이더.md",
@@ -208,7 +209,6 @@
     "Computer Engineering.md",
     "Untitled 1.base",
     "VR/Oculus Quest Link.md",
-    "Computer Graphics/Draw Calls.md",
     "VR/Quest.png"
   ]
 }
