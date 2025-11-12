@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "언리얼/엔진/렌더링/SViewport.md",
+                "file": "언리얼/엔진/렌더링/Slate/SWindow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SViewport"
+              "title": "SWindow"
             }
           }
         ]
@@ -172,13 +172,13 @@
   },
   "active": "e667f120acb401cf",
   "lastOpenFiles": [
+    "언리얼/엔진/렌더링/Slate/FSlateApplication.md",
+    "언리얼/엔진/렌더링/Slate/SWindow.md",
+    "언리얼/엔진/렌더링/SViewport.md",
     "언리얼/엔진/렌더링/UGameViewportClient.md",
     "언리얼/엔진/언리얼 루프.md",
-    "언리얼/엔진/렌더링/Slate/SWindow.md",
     "언리얼/엔진/GameViewportClient.md",
     "언리얼/엔진/렌더링/Slate",
-    "언리얼/엔진/렌더링/SViewport.md",
-    "언리얼/엔진/렌더링/Slate/FSlateApplication.md",
     "언리얼/엔진/렌더링/FSceneViewFamily.md",
     "언리얼/엔진/렌더링/FSceneView.md",
     "언리얼/엔진/렌더링",
