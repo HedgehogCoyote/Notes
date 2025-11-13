@@ -170,8 +170,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e667f120acb401cf",
+  "active": "025d9abc6d87579f",
   "lastOpenFiles": [
+    "디버깅",
     "언리얼/엔진/렌더링/Untitled/FRenderingThread.md",
     "언리얼/엔진/렌더링/Untitled/F.md",
     "언리얼/엔진/렌더링/Untitled.md",
@@ -208,7 +209,6 @@
     "Hardware Engineering.md",
     "GitHub Actions.md",
     "Computer Software.md",
-    "Computer Hardware.md",
     "VR/Quest.png"
   ]
 }
