@@ -1,2 +1,4 @@
 ## 상속
-`FRunn`
+`FRunnable`
+## 위치
+`RenderingThread.cpp`
