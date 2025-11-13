@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "언리얼/엔진/렌더링/Untitled/F.md",
+                "file": "디버깅/언리얼 인사이트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "F"
+              "title": "언리얼 인사이트"
             }
           }
         ]
@@ -170,11 +170,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "025d9abc6d87579f",
+  "active": "e667f120acb401cf",
   "lastOpenFiles": [
+    "언리얼/엔진/렌더링/Untitled/F.md",
+    "디버깅/언리얼 인사이트.md",
     "디버깅",
     "언리얼/엔진/렌더링/Untitled/FRenderingThread.md",
-    "언리얼/엔진/렌더링/Untitled/F.md",
     "언리얼/엔진/렌더링/Untitled.md",
     "언리얼/엔진/렌더링/Untitled",
     "언리얼/엔진/렌더링/Slate/SWindow.md",
@@ -199,7 +200,6 @@
     "Untitled.canvas",
     "언리얼/기타/언리얼 빌드 최적화.md",
     "Misc",
-    "언리얼",
     "언리얼/기타/언리얼 사운드.md",
     "2025-11-12.md",
     "Computer.md",
