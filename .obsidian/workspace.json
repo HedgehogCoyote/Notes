@@ -187,6 +187,7 @@
   },
   "active": "c0443c17a576399f",
   "lastOpenFiles": [
+    "컴퓨터 그래픽스/이론",
     "언리얼/엔진/렌더링/쉐이더/Uniform Buffer.md",
     "언리얼/엔진/렌더링/쉐이더/RHI Resource.md",
     "언리얼/엔진/렌더링/FPrimitiveSceneProxy.md",
@@ -223,7 +224,6 @@
     "Untitled.canvas",
     "언리얼/기타/언리얼 빌드 최적화.md",
     "언리얼/기타/언리얼 사운드.md",
-    "2025-11-12.md",
     "VR/Quest.png"
   ]
 }
