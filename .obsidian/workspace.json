@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "언리얼/플러그인들/GameFeaturePlugin.md",
+                "file": "프로젝트/사용 플러그인.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GameFeaturePlugin"
+              "title": "사용 플러그인"
             }
           }
         ],
@@ -187,8 +187,8 @@
   },
   "active": "c0443c17a576399f",
   "lastOpenFiles": [
-    "언리얼/엔진/에셋/UPrimaryDataAsset.md",
     "언리얼/플러그인들/GameFeaturePlugin.md",
+    "언리얼/엔진/에셋/UPrimaryDataAsset.md",
     "언리얼/플러그인들",
     "프로젝트/사용 플러그인.md",
     "언리얼/엔진/에셋/UDataAsset.md",
