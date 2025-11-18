@@ -1,6 +1,9 @@
 ### 보유
 UExperienceDefinition
 
+### 인게임 보유
+
+
 ### 역할
 Pawn이 하는 일을 데이터 화 하여 재사용, 변경한다.
 
