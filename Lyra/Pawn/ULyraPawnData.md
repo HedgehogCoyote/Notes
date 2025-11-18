@@ -1,8 +1,13 @@
+### 보유
+UExperienceDefinition
+
+### 역할
+Pawn이 하는 일을 데이터 화 하여 재사용, 변경한다.
+
 ### 상속
 `UPrimaryAssetData`
 
-
-### 
+### 주요 프로퍼티
 `PawnClass` : 사용할 Pawn의 Class 정의
 
 `AbilitySets` : Pawn에 기본 장착할 Ability Set들
