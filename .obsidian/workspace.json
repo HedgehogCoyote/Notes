@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lyra/Pawn/ULyraPawnExtensionComponent.md",
+                "file": "Lyra/Pawn/ALyraPawn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ULyraPawnExtensionComponent"
+              "title": "ALyraPawn"
             }
           }
         ],
@@ -197,8 +197,9 @@
   },
   "active": "c0443c17a576399f",
   "lastOpenFiles": [
-    "Lyra/AbilitySystem/FLyraAbilityTagRelationShip, ULyraAbilityTagRelationshipMapping.md",
     "Lyra/Pawn/ULyraPawnExtensionComponent.md",
+    "Lyra/Pawn/ALyraPawn.md",
+    "Lyra/AbilitySystem/FLyraAbilityTagRelationShip, ULyraAbilityTagRelationshipMapping.md",
     "Lyra/Pawn/ULyraPawnData.md",
     "Lyra/Experience.md",
     "Lyra/AbilitySystem",
@@ -229,7 +230,6 @@
     "디버깅/언리얼 인사이트.md",
     "언리얼/엔진/렌더링/Untitled/F.md",
     "디버깅",
-    "언리얼/엔진/렌더링/Untitled/FRenderingThread.md",
     "언리얼/엔진/렌더링/Untitled",
     "언리얼/엔진/렌더링/Slate",
     "언리얼/엔진/렌더링",
