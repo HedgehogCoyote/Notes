@@ -197,9 +197,13 @@
   },
   "active": "c0443c17a576399f",
   "lastOpenFiles": [
+    "Lyra/Inventory",
+    "Lyra/Untitled.md",
+    "Lyra/Pawn/ALyraPawn.md",
+    "Lyra/Equipment",
+    "Lyra/Comsmetics",
     "Lyra/Pawn/ULyraHeroComponent.md",
     "Lyra/Pawn/ULyraPawnExtensionComponent.md",
-    "Lyra/Pawn/ALyraPawn.md",
     "Lyra/AbilitySystem/FLyraAbilityTagRelationShip, ULyraAbilityTagRelationshipMapping.md",
     "Lyra/Pawn/ULyraPawnData.md",
     "Lyra/Experience.md",
@@ -227,12 +231,8 @@
     "언리얼/엔진/렌더링/FMeshBatchElement.md",
     "언리얼/엔진/렌더링/FMeshBatch.md",
     "언리얼/엔진/렌더링/FMeshElementCollector.md",
-    "언리얼/엔진/렌더링/레퍼런스.md",
-    "디버깅/언리얼 인사이트.md",
     "디버깅",
     "언리얼/엔진/렌더링/Untitled",
-    "언리얼/엔진/렌더링/Slate",
-    "언리얼/엔진/렌더링",
     "Untitled.canvas",
     "VR/Quest.png"
   ]
