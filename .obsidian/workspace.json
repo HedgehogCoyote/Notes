@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "체계화 이전/ModuleName.Build.cs.md",
+                "file": "체계화 이전/Build.cs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ModuleName.Build.cs"
+              "title": "Build.cs"
             }
           }
         ],
@@ -198,7 +198,7 @@
   "active": "c0443c17a576399f",
   "lastOpenFiles": [
     "체계화 이전/Target.cs.md",
-    "체계화 이전/ModuleName.Build.cs.md",
+    "체계화 이전/Build.cs.md",
     "프로젝트/프로젝트 구조/Experience 기반 게임.md",
     "체계화 이전",
     "Careers/포트 폴리오",
