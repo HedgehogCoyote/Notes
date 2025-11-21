@@ -195,11 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0443c17a576399f",
+  "active": "025d9abc6d87579f",
   "lastOpenFiles": [
+    "프로젝트/프로젝트 P",
     "체계화 이전/Target.cs.md",
     "체계화 이전/Build.cs.md",
-    "프로젝트/프로젝트 구조/Experience 기반 게임.md",
+    "프로젝트/프로젝트 P/프로젝트 구조/Experience 기반 게임.md",
     "체계화 이전",
     "Careers/포트 폴리오",
     "Careers/코딩 테스트",
@@ -209,7 +210,7 @@
     "새 폴더",
     "언리얼/플러그인들/GameFeaturePlugin",
     "프로젝트/사용 플러그인.md",
-    "프로젝트/프로젝트 구조",
+    "프로젝트/프로젝트 P/프로젝트 구조",
     "언리얼/엔진/에셋/UPrimaryDataAsset.md",
     "언리얼/플러그인들",
     "언리얼/엔진/에셋/UDataAsset.md",
@@ -232,7 +233,6 @@
     "언리얼/엔진/렌더링/레퍼런스.md",
     "언리얼/엔진/렌더링/Untitled/F.md",
     "언리얼/엔진/렌더링/Untitled/FRenderingThread.md",
-    "언리얼/엔진/렌더링/Slate/FSlateApplication.md",
     "Untitled.canvas",
     "VR/Quest.png"
   ]
