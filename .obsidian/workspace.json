@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/프로젝트 P/프로젝트 구조/Experience 기반 게임.md",
+                "file": "체계화 이전/프로젝트 WorldSetting Override 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Experience 기반 게임"
+              "title": "프로젝트 WorldSetting Override 방법"
             }
           }
         ],
@@ -197,10 +197,12 @@
   },
   "active": "c0443c17a576399f",
   "lastOpenFiles": [
+    "Pasted image 20251122154258.png",
+    "프로젝트/프로젝트 P/프로젝트 구조/Experience 기반 게임.md",
+    "체계화 이전/프로젝트 WorldSetting Override 방법.md",
     "프로젝트/프로젝트 P/프로젝트 설정/ini.md",
     "프로젝트/프로젝트 P/프로젝트 계획/1차 마일스톤.md",
     "프로젝트/프로젝트 P/프로젝트 설정",
-    "프로젝트/프로젝트 P/프로젝트 구조/Experience 기반 게임.md",
     "언리얼/플러그인들/GameAbilitySystem/액터에 적용 방법.md",
     "프로젝트/프로젝트 P/프로젝트 계획",
     "체계화 이전/Build.cs.md",
@@ -231,8 +233,6 @@
     "언리얼/엔진/렌더링/Untitled.md",
     "언리얼/엔진/렌더링/FMeshBatchElement.md",
     "언리얼/엔진/렌더링/FMeshBatch.md",
-    "언리얼/엔진/렌더링/FMeshElementCollector.md",
-    "언리얼/엔진/렌더링/레퍼런스.md",
     "Untitled.canvas",
     "VR/Quest.png"
   ]
