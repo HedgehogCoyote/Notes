@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/프로젝트 P/프로젝트 계획/1차 마일스톤.md",
+                "file": "프로젝트/프로젝트 P/프로젝트 설정/ini.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1차 마일스톤"
+              "title": "ini"
             }
           }
         ],
@@ -197,9 +197,11 @@
   },
   "active": "c0443c17a576399f",
   "lastOpenFiles": [
+    "프로젝트/프로젝트 P/프로젝트 계획/1차 마일스톤.md",
+    "프로젝트/프로젝트 P/프로젝트 설정/ini.md",
+    "프로젝트/프로젝트 P/프로젝트 설정",
     "프로젝트/프로젝트 P/프로젝트 구조/Experience 기반 게임.md",
     "언리얼/플러그인들/GameAbilitySystem/액터에 적용 방법.md",
-    "프로젝트/프로젝트 P/프로젝트 계획/1차 마일스톤.md",
     "프로젝트/프로젝트 P/프로젝트 계획",
     "체계화 이전/Build.cs.md",
     "언리얼/플러그인들/GameAbilitySystem",
@@ -212,7 +214,6 @@
     "언리얼/플러그인들/GameFeaturePlugin/GameFeaturePlugin.md",
     "Images",
     "새 폴더",
-    "언리얼/플러그인들/GameFeaturePlugin",
     "프로젝트/사용 플러그인.md",
     "언리얼/엔진/에셋/UPrimaryDataAsset.md",
     "언리얼/엔진/에셋/UDataAsset.md",
