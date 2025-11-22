@@ -1,1 +1,1 @@
-Asset Manager에서 따로
+Asset Manager에서 따로 관리 하는 에셋
