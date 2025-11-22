@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/프로젝트 P/프로젝트 구조/Experience 기반 게임.md",
+                "file": "체계화 이전/Primary Asset.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Experience 기반 게임"
+              "title": "Primary Asset"
             }
           }
         ],
@@ -197,9 +197,10 @@
   },
   "active": "c0443c17a576399f",
   "lastOpenFiles": [
+    "프로젝트/프로젝트 P/프로젝트 구조/Experience 기반 게임.md",
+    "체계화 이전/Primary Asset.md",
     "체계화 이전/프로젝트 WorldSetting Override 방법.md",
     "Pasted image 20251122154258.png",
-    "프로젝트/프로젝트 P/프로젝트 구조/Experience 기반 게임.md",
     "프로젝트/프로젝트 P/프로젝트 설정/ini.md",
     "프로젝트/프로젝트 P/프로젝트 계획/1차 마일스톤.md",
     "프로젝트/프로젝트 P/프로젝트 설정",

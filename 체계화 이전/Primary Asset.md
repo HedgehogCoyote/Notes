@@ -1,0 +1,1 @@
+Asset Manager에서 따로
