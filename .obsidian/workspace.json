@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Clothes 시스템"
             }
+          },
+          {
+            "id": "b464132df2f7db3e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0443c17a576399f",
+  "active": "b464132df2f7db3e",
   "lastOpenFiles": [
     "프로젝트/프로젝트 P/프로젝트 구조/UI 구조 설계/Untitled.md",
     "프로젝트/프로젝트 P/프로젝트 구조/Clothes 시스템.md",
