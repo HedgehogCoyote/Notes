@@ -39,12 +39,14 @@
             "id": "b464132df2f7db3e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -209,6 +211,7 @@
   },
   "active": "b464132df2f7db3e",
   "lastOpenFiles": [
+    "Untitled.md",
     "프로젝트/프로젝트 P/프로젝트 구조/UI 구조 설계/Untitled.md",
     "프로젝트/프로젝트 P/프로젝트 구조/Clothes 시스템.md",
     "언리얼/모션 매칭.md",
@@ -245,7 +248,6 @@
     "언리얼/엔진/렌더링/FSceneViewFamily.md",
     "언리얼/엔진/렌더링/FPrimitiveSceneProxy.md",
     "언리얼/엔진/렌더링/쉐이더/RHI Resource.md",
-    "언리얼/엔진/렌더링/쉐이더/Uniform Buffer.md",
     "Untitled.canvas",
     "VR/Quest.png"
   ]

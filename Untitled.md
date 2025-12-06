@@ -1,0 +1,1 @@
+BindOnActorInitStateChanged(UPawnExtensionComponent::NAME_ActorFeatureName, FGameplayTag(), true);
