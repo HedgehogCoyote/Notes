@@ -1,6 +1,7 @@
 들을 걸 듣는다
 BindOnActorInitStateChanged(UPawnExtensionComponent::NAME_ActorFeatureName, FGameplayTag(), true);
 
+TryToChangeInitState(ParadoxGameplayTag::InitializeState_JustSpawned);로 일단스폰 됐음으로 바꿈 
 
 bool UPawnInputManagerComponent::CanChangeInitState(UGameFrameworkComponentManager* Manager, FGameplayTag CurrentState, FGameplayTag DesiredState) const (알아서 호출 됨)
 
