@@ -1,0 +1,1 @@
+Unity의 ScriptableObject와 비슷한 개념
