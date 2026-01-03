@@ -48,9 +48,53 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "993b8a2b58e45263",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json"
+            }
+          },
+          {
+            "id": "ae3d16727ab15f08",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json"
+            }
+          },
+          {
+            "id": "1930c5e93964dd02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lyra/Pawn/ULyraPawnExtensionComponent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ULyraPawnExtensionComponent"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -195,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 427.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,18 +253,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b464132df2f7db3e",
+  "active": "1930c5e93964dd02",
   "lastOpenFiles": [
-    "Input.md",
-    "언리얼/애니메이션/Untitled.md",
-    "언리얼/애니메이션",
-    "Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "프로젝트/사용 플러그인.md",
     "프로젝트/프로젝트 P/프로젝트 구조/UI 구조 설계/Untitled.md",
     "프로젝트/프로젝트 P/프로젝트 구조/Clothes 시스템.md",
+    "프로젝트/프로젝트 P/프로젝트 구조/Experience 기반 게임.md",
+    "언리얼/애니메이션/Untitled.md",
+    "언리얼/엔진/렌더링/쉐이더/EShadingModel.md",
+    "언리얼/게임 시스템/GameplayTags.md",
+    "언리얼/게임 시스템",
+    "Lyra/Pawn/ULyraPawnExtensionComponent.md",
+    "Lyra/Pawn/ULyraPawnData.md",
+    "Lyra/Pawn/ALyraPawn.md",
+    "Lyra/Pawn/ULyraHeroComponent.md",
+    "Lyra/Input/인풋 시스템.md",
+    "Lyra/Input/GameFeatureAction_AddInputBinding.md",
+    "Lyra/AbilitySystem/FLyraAbilityTagRelationShip, ULyraAbilityTagRelationshipMapping.md",
+    "Lyra/Pawn",
+    "Lyra/Input",
+    "Lyra/Experience.md",
+    "Lyra/AbilitySystem",
+    "Lyra",
+    "Input.md",
+    "언리얼/애니메이션",
+    "Untitled.md",
     "언리얼/모션 매칭.md",
     "프로젝트/프로젝트 P/프로젝트 구조/UI 구조 설계",
     "프로젝트/프로젝트 P/프로젝트 계획/1차 마일스톤.md",
-    "프로젝트/프로젝트 P/프로젝트 구조/Experience 기반 게임.md",
     "체계화 이전/Primary Asset.md",
     "체계화 이전/프로젝트 WorldSetting Override 방법.md",
     "Pasted image 20251122154258.png",
@@ -230,24 +291,7 @@
     "프로젝트/프로젝트 P/프로젝트 계획",
     "체계화 이전/Build.cs.md",
     "언리얼/플러그인들/GameAbilitySystem",
-    "프로젝트/프로젝트 P",
     "체계화 이전/Target.cs.md",
-    "체계화 이전",
-    "Careers/포트 폴리오",
-    "Careers/코딩 테스트",
-    "Careers",
-    "언리얼/플러그인들/GameFeaturePlugin/GameFeaturePlugin.md",
-    "프로젝트/사용 플러그인.md",
-    "언리얼/엔진/에셋/UPrimaryDataAsset.md",
-    "언리얼/엔진/에셋/UDataAsset.md",
-    "디버깅/언리얼 인사이트.md",
-    "언리얼/엔진/렌더링/레퍼런스들.md",
-    "언리얼/엔진/렌더링/Slate/SWindow.md",
-    "언리얼/엔진/렌더링/Slate/FSlateRHIRenderer.md",
-    "언리얼/엔진/렌더링/UGameViewportClient.md",
-    "언리얼/엔진/렌더링/FSceneView.md",
-    "언리얼/엔진/렌더링/Slate/SViewport.md",
-    "언리얼/엔진/렌더링/FSceneViewFamily.md",
     "Untitled.canvas",
     "VR/Quest.png"
   ]
